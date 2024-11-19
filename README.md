@@ -1,3 +1,3 @@
 # data-science
 This is my first data science project 
-Auther-Akshay kumar
+Author-Akshay kumar
